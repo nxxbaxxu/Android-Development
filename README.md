@@ -1,2 +1,2 @@
-# Check Branches!
-My progress in Android Development
+# My progress in Android Development
+
